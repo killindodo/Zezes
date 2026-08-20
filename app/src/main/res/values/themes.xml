@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Zezes" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">@color/neon_background</item>
+        <item name="android:statusBarColor">@color/neon_background</item>
+        <item name="colorPrimary">@color/neon_cyan</item>
+        <item name="colorSecondary">@color/neon_magenta</item>
+        <item name="colorTertiary">@color/neon_purple</item>
+    </style>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zezes</string>
+    <string name="header_subtitle">Mobile ISO Deployment Core</string>
+    <string name="theme_selection">UI THEME SELECTION</string>
+    <string name="hint_select_theme">Select Interface Theme</string>
+    <string name="source_iso">Source ISO</string>
+    <string name="btn_choose_iso">CHOOSE ISO IMAGE</string>
+    <string name="iso_file_name">File Name: %1$s</string>
+    <string name="iso_file_size">File Size: %1$s</string>
+    <string name="iso_os_type">OS Type Detection: %1$s</string>
+    <string name="target_device">Target Device</string>
+    <string name="btn_select_usb">SELECT USB DRIVE PATH</string>
+    <string name="usb_drive_name">Drive Name: %1$s</string>
+    <string name="usb_total_capacity">Total Capacity: %1$s</string>
+    <string name="usb_fs_format">File System Format: %1$s</string>
+    <string name="btn_initialize_engine">INITIALIZE EXTRACTION ENGINE</string>
+    <string name="raw_flash">RAW FLASH (LINUX)</string>
+    <string name="extract_iso">EXTRACT (WINDOWS)</string>
+    <string name="terminal_console">TERMINAL CONSOLE</string>
+    <string name="waiting_placeholder">[ 0000 ] Waiting…</string>
+    <string name="system_ready">SYSTEM READY…</string>
+    <string name="activity_pulse_template">[ %1$s ] %2$s</string>
+    <string name="progress_default">0%% (0.00 MB/s)</string>
+    <string name="progress_template">%1$d%% (%2$.2f MB/s)</string>
+    <string name="time_metrics_template">Elapsed: %1$s | Remaining: %2$s</string>
+    <string name="signature">KILLINDODO</string>
+    <string name="select_iso_hint">Please select an ISO image</string>
+    <string name="select_usb_hint">Please select a USB device</string>
+    <string name="ready_to_flash">Ready to flash: %1$s</string>
+    <string name="none_placeholder">--</string>
+    <string name="unknown">Unknown</string>
+    <string name="permission_denied">Permission denied for: %1$s</string>
+    <string name="permission_granted">Permission granted: %1$s</string>
+    <string name="usb_disconnected">USB device disconnected</string>
+    <string name="no_usb_found">No USB devices found. Ensure OTG is enabled.</string>
+    <string name="no_mass_storage">No Mass Storage devices found.</string>
+    <string name="found_devices">Found %1$d devices. Select one from the list.</string>
+    <string name="warning_theme_change">WARNING: Changing themes mid-flash will result in app restart.</string>
+    <string name="pick_iso">Pick ISO</string>
+    <string name="scan_usb">Scan USB</string>
+    <string name="selected_iso">Selected ISO: %1$s</string>
+</resources>
