@@ -66,7 +66,7 @@ Long-press the app icon in the toolbar to access 6 built-in color themes:
 
 ## 📥 Installation
 
-Download the latest APK from the official [Releases](https://github.com/killindodo/Zezes/releases) section and install it on your Android device.
+Download the latest APK from the official [Releases](https://github.com/killindodo/Zezes/releases) or from orion store [here](https://rookieenough.github.io/Orion-Data/redirect.html?id=zezes) section and install it on your Android device.
 
 ---
 
